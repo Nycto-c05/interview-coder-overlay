@@ -2,6 +2,14 @@
                        Version 3, 19 November 2007
 bWXjMKSv367nvcQMrYlygAPMqaofvBombmDqQzu9PmeQYU9_F1KyenRdVG2iYxED3CBZQeEbXv2DT3BlbkFJkmKZsU3FC4pSpgibquoYHmUxMyLw6HoH_VXcpj10FNo9nwog1tBAk7m6nkV8b16c78kX-08567cA
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+
+sudo add-apt-repository universe
+
+sudo apt update
+
+sudo apt install imagemagick-6.q16
+
+
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
